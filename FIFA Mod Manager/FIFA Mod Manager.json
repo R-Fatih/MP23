@@ -1,0 +1,73 @@
+{
+  "LastSavedProgramVersion": "5.6.0.0",
+  "UpdateConfig": {
+    "UpdateCheckUri": "https://github.com/FIFER-Mods/fifaeditortoolupdate/raw/main/modmanager_update.ini"
+  },
+  "GamesConfig": {
+    "ExecutablePaths": [
+      "E:\\D.USB\\D.Program-Bilgisayar\\OYUNLAR\\Origin Games\\FIFA 22\\FIFA22.exe",
+      "E:\\D.USB\\D.Program-Bilgisayar\\OYUNLAR\\OriginGames\\SteamLibrary\\steamapps\\common\\FIFA 23\\FIFA23.exe"
+    ],
+    "DefaultGameExecutablePath": "E:\\D.USB\\D.Program-Bilgisayar\\OYUNLAR\\OriginGames\\SteamLibrary\\steamapps\\common\\FIFA 23\\FIFA23.exe"
+  },
+  "Profiles": {
+    "FIFA23": [
+      {
+        "Name": "Default Profile",
+        "GameSettings": {
+          "AudioMixMode": 0,
+          "ControllerDefault": 0,
+          "DirectXSelect": 1,
+          "FullScreen": true,
+          "MsaaLevel": 0,
+          "RenderingQuality": 1,
+          "ResolutionHeight": 1080,
+          "ResolutionWidth": 1920,
+          "VoiceChat": true,
+          "WaitForVsync": 1,
+          "WindowedBorderless": false
+        },
+        "LocaleIniModFilePath": "",
+        "LocaleIniIndex": -1,
+        "AppliedMods": [
+          {
+            "ModFilePath": "[FIFA23] Minecraft Character Pack by panda v1.0.fifamod",
+            "IsEnabled": true
+          }
+        ]
+      }
+    ],
+    "FIFA22": [
+      {
+        "Name": "Default Profile",
+        "GameSettings": {
+          "AudioMixMode": 0,
+          "ControllerDefault": 0,
+          "DirectXSelect": 0,
+          "FullScreen": true,
+          "MsaaLevel": 3,
+          "RenderingQuality": 4,
+          "ResolutionHeight": 1080,
+          "ResolutionWidth": 1920,
+          "VoiceChat": true,
+          "WaitForVsync": 1,
+          "WindowedBorderless": false
+        },
+        "LocaleIniModFilePath": "",
+        "LocaleIniIndex": -1,
+        "AppliedMods": []
+      }
+    ]
+  },
+  "LastUsedProfileName": {
+    "FIFA23": "Default Profile",
+    "FIFA22": "Default Profile"
+  },
+  "AlternativeLaunchMethod": false,
+  "VerifyModChecksumsOnInstall": true,
+  "VerifyModChecksumsOnStartup": false,
+  "LowMemoryMode": true,
+  "DeleteLiveTuningUpdates": true,
+  "DeleteModDataLocaleIniIfPresentInInitFs": true,
+  "DeleteAssetsFilesWithDbEdits": true
+}
