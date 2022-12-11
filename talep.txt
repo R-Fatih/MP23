@@ -13,4 +13,7 @@ TR94 0004 6007 6288 8000 1505 65 (FURKAN AKIN BAŞ Akbank)
 PAPARA:
 198 936 43 28
 
+ININAL:
+4092590775730
+
 Başkasına ait banka hesabından göndermeniz durumunda kendi adınızı belirtmelisiniz.
