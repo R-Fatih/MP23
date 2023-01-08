@@ -2,7 +2,7 @@ Sipariş talebi oluşturmak için adımları takip edin;
 Aşağıdaki hesaplar dışında başka bir hesaba atmayın.
 
 1-Bankalardan birisine almak istediğiniz içeriklerin toplam fiyatını gönderin.
-2-'fifamellivorapatch@outlook.com' adresine dekontu mail ile gönderin. (Aldığınız içiriğin adını mailde belirtmeyi unutmayın)
+2-'fifamellivorapatch@outlook.com' adresine dekontu ve discord adınızı mail ile gönderin. (Aldığınız içiriğin adını mailde belirtmeyi unutmayın)
 3-En geç 24 saat içinde kod gönderilecektir (güncellenecektir).
 
 Güncelleme için para göndermeniz durumunda 'fifamellivorapatch@outlook.com' mail adresine dekont ve kodunuzu gönderin.
